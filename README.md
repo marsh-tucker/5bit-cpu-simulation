@@ -1,3 +1,5 @@
+**Marshall Tucker**  
+
 # 5-bit CPU Simulation (NI Multisim)
 
 This project showcases a custom 5-bit CPU architecture designed and simulated entirely in NI Multisim. The design replicates key components found in real-world CPUs, including a memory system, control logic, and execution cycle. The instruction set is based loosely on the MARIE architecture and supports simple fetch-decode-execute logic.
@@ -16,7 +18,7 @@ The design includes the following major components:
 
 All subsystems were wired and configured manually, with logical control lines and memory locations verified using program data.
 
-**Marshall Tucker**  
+##LinkedIn
 Computer Science Student, Kennesaw State University  
 [LinkedIn: linkedin.com/in/marshall-tucker](https://www.linkedin.com/in/marshall-tucker-3666782ab/)
 
@@ -61,9 +63,3 @@ Computer Science Student, Kennesaw State University
 ## Notes
 
 This project was designed entirely from scratch, including all wiring, control logic, and memory structures. It was created as part of a Computer Architecture lab to demonstrate understanding of digital systems and CPU internals.
-
-##LinkedIn
-
-**Marshall Tucker**  
-Computer Science Student, Kennesaw State University  
-[LinkedIn: linkedin.com/in/marshall-tucker](https://www.linkedin.com/in/marshall-tucker-3666782ab/)
