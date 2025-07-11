@@ -19,7 +19,7 @@ All subsystems were wired and configured manually, with logical control lines an
 
 ### IR and MAR Diagram  
 `images/IR-and-MAR-diagram.jpg`  
-![IR and MAR](images/IR-and-MAR-diagram.jpg)
+![IR and MAR](images/IR-and-MAR-Design.jpg)
 
 ### Accumulator and MBR Registers  
 `images/Accumulator-and-MBR-registers.jpg`  
@@ -35,7 +35,7 @@ All subsystems were wired and configured manually, with logical control lines an
 
 ### Decoder Logic  
 `images/Decoder-Diagram.jpg`  
-![Decoder Diagram](images/Decoder-Diagram.jpg)
+![Decoder Diagram](images/Decoder-Design.jpg)
 
 ### Program 1 Stored in Memory  
 `images/Program-1-Stored.jpg`  
