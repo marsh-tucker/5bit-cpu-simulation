@@ -35,7 +35,7 @@ All subsystems were wired and configured manually, with logical control lines an
 
 ### Decoder Logic  
 `images/Decoder-Diagram.jpg`  
-![Decoder Diagram](images/Decoder-Design.jpg)
+![Decoder Diagram](images/Decoder-Diagram.jpg)
 
 ### Program 1 Stored in Memory  
 `images/Program-1-Stored.jpg`  
