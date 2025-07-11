@@ -16,6 +16,10 @@ The design includes the following major components:
 
 All subsystems were wired and configured manually, with logical control lines and memory locations verified using program data.
 
+**Marshall Tucker**  
+Computer Science Student, Kennesaw State University  
+[LinkedIn: linkedin.com/in/marshall-tucker](https://www.linkedin.com/in/marshall-tucker-3666782ab/)
+
 ## Image Gallery
 
 ### IR and MAR Diagram  
